@@ -1,1 +1,2 @@
-# JETFORM_WHATSAPP
+	
+GET dos campos para enviar via Whatsapp
